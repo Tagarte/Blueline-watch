@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# build
+dist/
+build/
+web-build/
+
+# environment
+.env
+.env.local
+
+# logs
+*.log
+
+# WebStorm / JetBrains
+.idea/
+*.iml
+out/
+
+# React Native
+android/.gradle/
+android/app/build/
+ios/build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# npm
+package-lock.json
+yarn.lock
