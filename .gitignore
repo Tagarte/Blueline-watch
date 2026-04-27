@@ -1,6 +1,6 @@
 # dependencies
 node_modules/
-
+.idea
 # Expo
 .expo/
 .expo-shared/
@@ -18,7 +18,7 @@ web-build/
 *.log
 
 # WebStorm / JetBrains
-.idea/
+frontend/.idea/
 *.iml
 out/
 
